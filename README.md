@@ -8,11 +8,11 @@
 
 ## mersy note
 <!-- BLOG-POST-LIST:START -->
+- [Craft CMS の CKEditor プラグインがアップデートされたので試してみる](https://note.mersy418.com/article/craftcms-ckeditor-plugin?utm_source=feed)
 - [Wiki とかのコメント機能でドキュメントをアップデートする](https://note.mersy418.com/article/wiki-comment-update-document?utm_source=feed)
 - [複数人・チームで仕事をする](https://note.mersy418.com/article/develop-with-team?utm_source=feed)
 - [Mermaid のドキュメントを読んでみた](https://note.mersy418.com/article/mermaid-document?utm_source=feed)
 - [【読了】AWSで実現するモダンアプリケーション入門](https://note.mersy418.com/article/book-b0brprqfmh?utm_source=feed)
 - [【読了】ちいさくはじめるデザインシステム](https://note.mersy418.com/article/book-4802512481?utm_source=feed)
 - [Markdown でコンテンツを管理したりページを管理してURLを考える](https://note.mersy418.com/article/markdown-content-management-url?utm_source=feed)
-- [【読了】Astro v2とTinaCMSでシンプルに作るブログサイト](https://note.mersy418.com/article/book-b0bytxft9r?utm_source=feed)
 <!-- BLOG-POST-LIST:END -->
