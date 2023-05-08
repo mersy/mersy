@@ -8,11 +8,11 @@
 
 ## mersy note
 <!-- BLOG-POST-LIST:START -->
+- [【読了】［試して理解］Linuxのしくみ](https://note.mersy418.com/article/book-b0bg8j5qj1?utm_source=feed)
+- [【読了】AWSの基本・仕組み・重要用語が全部わかる教科書](https://note.mersy418.com/article/book-b0b81pzy8h?utm_source=feed)
 - [【読了】秒で伝わる文章術](https://note.mersy418.com/article/book-b09xhncq4l?utm_source=feed)
 - [Warp を入れてみた](https://note.mersy418.com/article/try-warp?utm_source=feed)
 - [Craft CMS の CKEditor プラグインがアップデートされたので試してみる](https://note.mersy418.com/article/craftcms-ckeditor-plugin?utm_source=feed)
 - [Wiki とかのコメント機能でドキュメントをアップデートする](https://note.mersy418.com/article/wiki-comment-update-document?utm_source=feed)
 - [複数人・チームで仕事をする](https://note.mersy418.com/article/develop-with-team?utm_source=feed)
-- [Mermaid のドキュメントを読んでみた](https://note.mersy418.com/article/mermaid-document?utm_source=feed)
-- [【読了】AWSで実現するモダンアプリケーション入門](https://note.mersy418.com/article/book-b0brprqfmh?utm_source=feed)
 <!-- BLOG-POST-LIST:END -->
