@@ -8,11 +8,9 @@
 
 ## mersy note
 <!-- BLOG-POST-LIST:START -->
-- [仕様を確認・すりあわせていく仕事](https://note.mersy418.com/article/checking-specifications?utm_source=feed)
-- [エントリのアセットフィールドにaltの内容を表示する #craftcms](https://note.mersy418.com/article/craftcms-alt-edit?utm_source=feed)
-- [Craft 5.3：Link fields を触ってみる](https://note.mersy418.com/article/craft-5-3-link-fields?utm_source=feed)
-- [Craft Cloud を使っていきたい気がする](https://note.mersy418.com/article/craft-cloud-introduce?utm_source=feed)
-- [Craft 5.3 リリース！ #craftcms](https://note.mersy418.com/article/craft-5-3-released?utm_source=feed)
-- [Craft の composer.json を書き換えたときは craft up も実行しておく](https://note.mersy418.com/article/craft-composer-json-craft-up?utm_source=feed)
-- [Craft CMS 5.3.0-beta.1 リリース！](https://note.mersy418.com/article/craft-cms-5-3-0-beta-1?utm_source=feed)
+- [Conrad Singapore Orchard はペットフレンドリーらしい](https://mersy.hatenablog.com/entry/2024/11/13/061145)
+- [カスタムモジュール記念日](https://mersy.hatenablog.com/entry/2024/11/12/180000)
+- [アウトライナー使い始めたのを振り返ってみる](https://mersy.hatenablog.com/entry/2024/11/11/044332)
+- [忙しいというか忙しい。](https://mersy.hatenablog.com/entry/2024/11/07/213711)
+- [【Drupal】Twig 開発モードを有効にする](https://zenn.dev/mersy/articles/4dfda87a4e5dec)
 <!-- BLOG-POST-LIST:END -->
