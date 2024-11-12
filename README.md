@@ -13,4 +13,9 @@
 - [アウトライナー使い始めたのを振り返ってみる](https://mersy.hatenablog.com/entry/2024/11/11/044332)
 - [忙しいというか忙しい。](https://mersy.hatenablog.com/entry/2024/11/07/213711)
 - [【Drupal】Twig 開発モードを有効にする](https://zenn.dev/mersy/articles/4dfda87a4e5dec)
+- [Ri Ri Hong Mala Xiang Guo でランチ](https://mersy.hatenablog.com/entry/2024/10/27/153917)
+- [3泊4日でマレーシアのペナン島へクルーズ](https://mersy.hatenablog.com/entry/2024/10/22/000000)
+- [いつもの洗濯洗剤を探す旅](https://mersy.hatenablog.com/entry/2024/10/13/212158)
+- [Drupal のコンテンツで利用するメニューをロール毎に制御する](https://zenn.dev/mersy/articles/2589c6d3d456c1)
+- [Hokkaido Ramen Ezokura で家系ラーメン](https://mersy.hatenablog.com/entry/2024/10/11/224950)
 <!-- BLOG-POST-LIST:END -->
