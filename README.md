@@ -6,7 +6,7 @@
 - https://note.mersy418.com/
 - https://mmm.mersy418.com/
 
-## mersy note
+## Blog Entries
 <!-- BLOG-POST-LIST:START -->
 - [Conrad Singapore Orchard はペットフレンドリーらしい](https://mersy.hatenablog.com/entry/2024/11/13/061145)
 - [カスタムモジュール記念日](https://mersy.hatenablog.com/entry/2024/11/12/180000)
