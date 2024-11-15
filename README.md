@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [雑談が苦手](https://mersy.hatenablog.com/entry/2024/11/15/194317)
 - [質問に対する回答が長くなりがち](https://mersy.hatenablog.com/entry/2024/11/14/053737)
 - [Conrad Singapore Orchard はペットフレンドリーらしい](https://mersy.hatenablog.com/entry/2024/11/13/061145)
 - [カスタムモジュール記念日](https://mersy.hatenablog.com/entry/2024/11/12/180000)
@@ -17,5 +18,4 @@
 - [Ri Ri Hong Mala Xiang Guo でランチ](https://mersy.hatenablog.com/entry/2024/10/27/153917)
 - [3泊4日でマレーシアのペナン島へクルーズ](https://mersy.hatenablog.com/entry/2024/10/22/000000)
 - [いつもの洗濯洗剤を探す旅](https://mersy.hatenablog.com/entry/2024/10/13/212158)
-- [Drupal のコンテンツで利用するメニューをロール毎に制御する](https://zenn.dev/mersy/articles/2589c6d3d456c1)
 <!-- BLOG-POST-LIST:END -->
