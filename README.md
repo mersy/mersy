@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [エアコンが涼しくならないのでパーツ交換](https://mersy.hatenablog.com/entry/2024/11/18/070000)
 - [我が家定番の Tiong Bahru Yong Tao Hu で朝ご飯＆朝散歩](https://mersy.hatenablog.com/entry/2024/11/17/115052)
 - [Lucky Plaza の地下でエコノミーライス食べる](https://mersy.hatenablog.com/entry/2024/11/16/120000)
 - [雑談が苦手](https://mersy.hatenablog.com/entry/2024/11/15/194317)
@@ -17,5 +18,4 @@
 - [アウトライナー使い始めたのを振り返ってみる](https://mersy.hatenablog.com/entry/2024/11/11/044332)
 - [忙しいというか忙しい。](https://mersy.hatenablog.com/entry/2024/11/07/213711)
 - [【Drupal】Twig 開発モードを有効にする](https://zenn.dev/mersy/articles/4dfda87a4e5dec)
-- [Ri Ri Hong Mala Xiang Guo でランチ](https://mersy.hatenablog.com/entry/2024/10/27/153917)
 <!-- BLOG-POST-LIST:END -->
