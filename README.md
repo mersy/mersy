@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [Craft 5 でいいなぁと思っている所](https://zenn.dev/mersy/articles/a27ac79f45d36e)
 - [Craft 5.5：チェックボックス・ラジオボタンでのカスタムオプション](https://zenn.dev/mersy/articles/df0075d2ef5ab1)
 - [「鮨と炭」で美味しい寿司を食べて大満足](https://mersy.hatenablog.com/entry/2024/11/30/183137)
 - [Readwise Reader から Inoreader に乗り換えてみる](https://mersy.hatenablog.com/entry/2024/11/20/220053)
@@ -17,5 +18,4 @@
 - [雑談が苦手](https://mersy.hatenablog.com/entry/2024/11/15/194317)
 - [質問に対する回答が長くなりがち](https://mersy.hatenablog.com/entry/2024/11/14/053737)
 - [Conrad Singapore Orchard はペットフレンドリーらしい](https://mersy.hatenablog.com/entry/2024/11/13/061145)
-- [カスタムモジュール記念日](https://mersy.hatenablog.com/entry/2024/11/12/180000)
 <!-- BLOG-POST-LIST:END -->
