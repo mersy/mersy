@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [Killiney @ River Valleyで朝ごはん](https://mersy.hatenablog.com/entry/2024/12/08/124741)
 - [Craft 5 でいいなぁと思っている所](https://zenn.dev/mersy/articles/a27ac79f45d36e)
 - [Craft 5.5：チェックボックス・ラジオボタンでのカスタムオプション](https://zenn.dev/mersy/articles/df0075d2ef5ab1)
 - [「鮨と炭」で美味しい寿司を食べて大満足](https://mersy.hatenablog.com/entry/2024/11/30/183137)
@@ -17,5 +18,4 @@
 - [Lucky Plaza の地下でエコノミーライス食べる](https://mersy.hatenablog.com/entry/2024/11/16/120000)
 - [雑談が苦手](https://mersy.hatenablog.com/entry/2024/11/15/194317)
 - [質問に対する回答が長くなりがち](https://mersy.hatenablog.com/entry/2024/11/14/053737)
-- [Conrad Singapore Orchard はペットフレンドリーらしい](https://mersy.hatenablog.com/entry/2024/11/13/061145)
 <!-- BLOG-POST-LIST:END -->
