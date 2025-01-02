@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [【ベトナム・ダナン旅行】1日目はダナンまで](https://mersy.hatenablog.com/entry/2025/01/01/000000)
 - [買ってよかったものを読むのが楽しい](https://mersy.hatenablog.com/entry/2024/12/30/081148)
 - [シンガポールにきて丸3年](https://mersy.hatenablog.com/entry/2024/12/29/212726)
 - [Craft CMS の Starter を触ってみる](https://zenn.dev/mersy/articles/72ea198a9aa00f)
@@ -17,5 +18,4 @@
 - [「鮨と炭」で美味しい寿司を食べて大満足](https://mersy.hatenablog.com/entry/2024/11/30/183137)
 - [Readwise Reader から Inoreader に乗り換えてみる](https://mersy.hatenablog.com/entry/2024/11/20/220053)
 - [エアコンが涼しくならないのでパーツ交換](https://mersy.hatenablog.com/entry/2024/11/18/070000)
-- [我が家定番の Tiong Bahru Yong Tao Hu で朝ご飯＆朝散歩](https://mersy.hatenablog.com/entry/2024/11/17/115052)
 <!-- BLOG-POST-LIST:END -->
