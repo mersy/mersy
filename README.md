@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [メールの inbox を整理する](https://mersy.hatenablog.com/entry/2025/01/03/170603)
 - [【ベトナム・ダナン旅行】食べたものあれこれ](https://mersy.hatenablog.com/entry/2025/01/02/121720)
 - [【ベトナム・ダナン旅行】1日目はダナンまで](https://mersy.hatenablog.com/entry/2025/01/01/000000)
 - [買ってよかったものを読むのが楽しい](https://mersy.hatenablog.com/entry/2024/12/30/081148)
@@ -17,5 +18,4 @@
 - [Craft 5 でいいなぁと思っている所](https://zenn.dev/mersy/articles/a27ac79f45d36e)
 - [Craft 5.5：チェックボックス・ラジオボタンでのカスタムオプション](https://zenn.dev/mersy/articles/df0075d2ef5ab1)
 - [「鮨と炭」で美味しい寿司を食べて大満足](https://mersy.hatenablog.com/entry/2024/11/30/183137)
-- [Readwise Reader から Inoreader に乗り換えてみる](https://mersy.hatenablog.com/entry/2024/11/20/220053)
 <!-- BLOG-POST-LIST:END -->
