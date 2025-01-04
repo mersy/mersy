@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [華記肉骨茶でバクテーランチ](https://mersy.hatenablog.com/entry/2025/01/04/184514)
 - [メールの inbox を整理する](https://mersy.hatenablog.com/entry/2025/01/03/170603)
 - [【ベトナム・ダナン旅行】食べたものあれこれ](https://mersy.hatenablog.com/entry/2025/01/02/121720)
 - [【ベトナム・ダナン旅行】1日目はダナンまで](https://mersy.hatenablog.com/entry/2025/01/01/000000)
@@ -17,5 +18,4 @@
 - [Killiney @ River Valleyで朝ごはん](https://mersy.hatenablog.com/entry/2024/12/08/124741)
 - [Craft 5 でいいなぁと思っている所](https://zenn.dev/mersy/articles/a27ac79f45d36e)
 - [Craft 5.5：チェックボックス・ラジオボタンでのカスタムオプション](https://zenn.dev/mersy/articles/df0075d2ef5ab1)
-- [「鮨と炭」で美味しい寿司を食べて大満足](https://mersy.hatenablog.com/entry/2024/11/30/183137)
 <!-- BLOG-POST-LIST:END -->
