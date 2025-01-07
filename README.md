@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [ノートに手書きをするかどうかより自分の中での定位置が定まっていないのが原因かも](https://mersy.hatenablog.com/entry/2025/01/07/172900)
 - [ブログを書きたいと思ってはいるのだけれど。。。](https://mersy.hatenablog.com/entry/2025/01/06/054441)
 - [【ベトナム・ダナン旅行】ダナンでの観光](https://mersy.hatenablog.com/entry/2025/01/05/204735)
 - [華記肉骨茶でバクテーランチ](https://mersy.hatenablog.com/entry/2025/01/04/184514)
@@ -17,5 +18,4 @@
 - [買ってよかったものを読むのが楽しい](https://mersy.hatenablog.com/entry/2024/12/30/081148)
 - [シンガポールにきて丸3年](https://mersy.hatenablog.com/entry/2024/12/29/212726)
 - [Craft CMS の Starter を触ってみる](https://zenn.dev/mersy/articles/72ea198a9aa00f)
-- [Killiney @ River Valleyで朝ごはん](https://mersy.hatenablog.com/entry/2024/12/08/124741)
 <!-- BLOG-POST-LIST:END -->
