@@ -8,6 +8,8 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [Workflowyを使うかどうか](https://mersy.hatenablog.com/entry/2025/01/09/083343)
+- [ただ豚肉を焼いただけでも十分美味しかった](https://mersy.hatenablog.com/entry/2025/01/08/233000)
 - [ノートに手書きをするかどうかより自分の中での定位置が定まっていないのが原因かも](https://mersy.hatenablog.com/entry/2025/01/07/172900)
 - [ブログを書きたいと思ってはいるのだけれど。。。](https://mersy.hatenablog.com/entry/2025/01/06/054441)
 - [【ベトナム・ダナン旅行】ダナンでの観光](https://mersy.hatenablog.com/entry/2025/01/05/204735)
@@ -16,6 +18,4 @@
 - [【ベトナム・ダナン旅行】食べたものあれこれ](https://mersy.hatenablog.com/entry/2025/01/02/121720)
 - [【ベトナム・ダナン旅行】1日目はダナンまで](https://mersy.hatenablog.com/entry/2025/01/01/000000)
 - [買ってよかったものを読むのが楽しい](https://mersy.hatenablog.com/entry/2024/12/30/081148)
-- [シンガポールにきて丸3年](https://mersy.hatenablog.com/entry/2024/12/29/212726)
-- [Craft CMS の Starter を触ってみる](https://zenn.dev/mersy/articles/72ea198a9aa00f)
 <!-- BLOG-POST-LIST:END -->
