@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [Workflowy → Cursor](https://mersy.hatenablog.com/entry/2025/01/13/082354)
 - [Workflowyを使うかどうか](https://mersy.hatenablog.com/entry/2025/01/09/083343)
 - [ただ豚肉を焼いただけでも十分美味しかった](https://mersy.hatenablog.com/entry/2025/01/08/233000)
 - [ノートに手書きをするかどうかより自分の中での定位置が定まっていないのが原因かも](https://mersy.hatenablog.com/entry/2025/01/07/172900)
@@ -17,5 +18,4 @@
 - [メールの inbox を整理する](https://mersy.hatenablog.com/entry/2025/01/03/170603)
 - [【ベトナム・ダナン旅行】食べたものあれこれ](https://mersy.hatenablog.com/entry/2025/01/02/121720)
 - [【ベトナム・ダナン旅行】1日目はダナンまで](https://mersy.hatenablog.com/entry/2025/01/01/000000)
-- [買ってよかったものを読むのが楽しい](https://mersy.hatenablog.com/entry/2024/12/30/081148)
 <!-- BLOG-POST-LIST:END -->
