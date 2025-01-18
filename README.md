@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [Ah Chew Desserts でデザート](https://mersy.hatenablog.com/entry/2025/01/18/230000)
 - [20250117日記](https://mersy.hatenablog.com/entry/2025/01/17/225237)
 - [【ベトナム・ダナン旅行】ベトナム・ダナンメモ](https://mersy.hatenablog.com/entry/2025/01/16/072647)
 - [NotePlan を試してみる](https://mersy.hatenablog.com/entry/2025/01/15/082254)
@@ -17,5 +18,4 @@
 - [ただ豚肉を焼いただけでも十分美味しかった](https://mersy.hatenablog.com/entry/2025/01/08/233000)
 - [ノートに手書きをするかどうかより自分の中での定位置が定まっていないのが原因かも](https://mersy.hatenablog.com/entry/2025/01/07/172900)
 - [ブログを書きたいと思ってはいるのだけれど。。。](https://mersy.hatenablog.com/entry/2025/01/06/054441)
-- [【ベトナム・ダナン旅行】ダナンでの観光](https://mersy.hatenablog.com/entry/2025/01/05/204735)
 <!-- BLOG-POST-LIST:END -->
