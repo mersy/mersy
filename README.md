@@ -8,14 +8,12 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
-- [Great World モールに無印良品が4月にオープン！！](https://mersy.hatenablog.com/entry/2025/02/09/151309)
-- [けいすけで二郎系ラーメンを食べた](https://mersy.hatenablog.com/entry/2025/01/19/130000)
-- [Ah Chew Desserts でデザート](https://mersy.hatenablog.com/entry/2025/01/18/230000)
-- [20250117日記](https://mersy.hatenablog.com/entry/2025/01/17/225237)
-- [【ベトナム・ダナン旅行】ベトナム・ダナンメモ](https://mersy.hatenablog.com/entry/2025/01/16/072647)
-- [NotePlan を試してみる](https://mersy.hatenablog.com/entry/2025/01/15/082254)
-- [Logseq 経由の NotePlan にするかどうか](https://mersy.hatenablog.com/entry/2025/01/14/100902)
-- [Workflowy → Cursor](https://mersy.hatenablog.com/entry/2025/01/13/082354)
-- [Workflowyを使うかどうか](https://mersy.hatenablog.com/entry/2025/01/09/083343)
-- [ただ豚肉を焼いただけでも十分美味しかった](https://mersy.hatenablog.com/entry/2025/01/08/233000)
+- [Craft CMS の Starter を触ってみる](https://zenn.dev/mersy/articles/72ea198a9aa00f)
+- [Craft 5 でいいなぁと思っている所](https://zenn.dev/mersy/articles/a27ac79f45d36e)
+- [Craft 5.5：チェックボックス・ラジオボタンでのカスタムオプション](https://zenn.dev/mersy/articles/df0075d2ef5ab1)
+- [【Drupal】Twig 開発モードを有効にする](https://zenn.dev/mersy/articles/4dfda87a4e5dec)
+- [Drupal のコンテンツで利用するメニューをロール毎に制御する](https://zenn.dev/mersy/articles/2589c6d3d456c1)
+- [GitHub の sub-issue を試してみる](https://zenn.dev/mersy/articles/0b88c468c4fc54)
+- [Craft CMS でユーザー用のフィールドをユーザーグループ毎に制御する](https://zenn.dev/mersy/articles/ee4b6c5473012f)
+- [Craft CMS のアセットでファイル管理する](https://zenn.dev/mersy/articles/ca1b6482ee8e6a)
 <!-- BLOG-POST-LIST:END -->
