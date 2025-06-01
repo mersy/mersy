@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code, GitHub Copilot のAgent モードにCMSのローカル環境を作ってもらった](https://mersy.hatenablog.com/entry/2025/06/01/110254)
 - [Great World モールに無印良品が4月にオープン！！](https://mersy.hatenablog.com/entry/2025/02/09/151309)
 - [けいすけで二郎系ラーメンを食べた](https://mersy.hatenablog.com/entry/2025/01/19/130000)
 - [Ah Chew Desserts でデザート](https://mersy.hatenablog.com/entry/2025/01/18/230000)
@@ -17,5 +18,4 @@
 - [Logseq 経由の NotePlan にするかどうか](https://mersy.hatenablog.com/entry/2025/01/14/100902)
 - [Workflowy → Cursor](https://mersy.hatenablog.com/entry/2025/01/13/082354)
 - [Workflowyを使うかどうか](https://mersy.hatenablog.com/entry/2025/01/09/083343)
-- [ただ豚肉を焼いただけでも十分美味しかった](https://mersy.hatenablog.com/entry/2025/01/08/233000)
 <!-- BLOG-POST-LIST:END -->
