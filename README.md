@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [2025-11/8~11ハワイ旅行：オアフ島に初めて行ってきた](https://mersy.hatenablog.com/entry/2025/12/31/223139)
 - [2025年振り返り](https://mersy.hatenablog.com/entry/2025/12/31/213651)
 - [CMSの検索置換では難しい変換をDataAPIとClaudeに任せてみる](https://zenn.dev/mersy/articles/06e11cfc640fea)
 - [Claude Code, GitHub Copilot のAgent モードにCMSのローカル環境を作ってもらった](https://mersy.hatenablog.com/entry/2025/06/01/110254)
@@ -17,5 +18,4 @@
 - [20250117日記](https://mersy.hatenablog.com/entry/2025/01/17/225237)
 - [【ベトナム・ダナン旅行】ベトナム・ダナンメモ](https://mersy.hatenablog.com/entry/2025/01/16/072647)
 - [NotePlan を試してみる](https://mersy.hatenablog.com/entry/2025/01/15/082254)
-- [Logseq 経由の NotePlan にするかどうか](https://mersy.hatenablog.com/entry/2025/01/14/100902)
 <!-- BLOG-POST-LIST:END -->
