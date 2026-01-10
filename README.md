@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [気づいたらAIが撮ってくれていたBackupでstorage がほぼフルになっていた](https://mersy.hatenablog.com/entry/2026/01/10/143701)
 - [2025-11/8~11ハワイ旅行：オアフ島に初めて行ってきた](https://mersy.hatenablog.com/entry/2025/12/31/223139)
 - [2025年振り返り](https://mersy.hatenablog.com/entry/2025/12/31/213651)
 - [CMSの検索置換では難しい変換をDataAPIとClaudeに任せてみる](https://zenn.dev/mersy/articles/06e11cfc640fea)
@@ -17,5 +18,4 @@
 - [Ah Chew Desserts でデザート](https://mersy.hatenablog.com/entry/2025/01/18/230000)
 - [20250117日記](https://mersy.hatenablog.com/entry/2025/01/17/225237)
 - [【ベトナム・ダナン旅行】ベトナム・ダナンメモ](https://mersy.hatenablog.com/entry/2025/01/16/072647)
-- [NotePlan を試してみる](https://mersy.hatenablog.com/entry/2025/01/15/082254)
 <!-- BLOG-POST-LIST:END -->
