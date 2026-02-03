@@ -16,5 +16,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://mersy.hatenablog.com/feed,https://zenn.dev/mersy/feed"
+          feed_list: "https://note.mersy418.com/rss.xml,https://mersy.hatenablog.com/feed,https://zenn.dev/mersy/feed"
           max_post_count: 10
