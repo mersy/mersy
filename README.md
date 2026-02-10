@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [Codex app みたいなアプリを AI に作ってもらう](https://note.mersy418.com/article/create-agent-app/)
 - [CodexのMacアプリがよさそう](https://note.mersy418.com/article/codex-mac/)
 - [pitcms の記事一覧等が改善されてた](https://note.mersy418.com/article/pitcms20260202/)
 - [pitcmsを使ってみた](https://note.mersy418.com/article/pitcms/)
@@ -17,5 +18,4 @@
 - [CMSの検索置換では難しい変換をDataAPIとClaudeに任せてみる](https://zenn.dev/mersy/articles/06e11cfc640fea)
 - [iPhoneにAPN構成プロファイルをインストールするときはSafariでやるのがよさそう](https://note.mersy418.com/article/iphone-iijmio-safari/)
 - [Claude Code に開発時の改善タスクをGitHub MCP 経由で issue 化してもらう](https://note.mersy418.com/article/claudecode-githubmcp/)
-- [Craft CMS 用の Field Builder プラグインを作ってもらった](https://note.mersy418.com/article/develop-craftcms-plugin-with-ai/)
 <!-- BLOG-POST-LIST:END -->
