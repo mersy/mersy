@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [この頃の花粉症がキツい](https://note.mersy418.com/article/spring-allergy/)
 - [CMS大集合 vol.2 AIとコンテンツの未来！で登壇してきた #CMS大集合](https://note.mersy418.com/article/cms202602/)
 - [連用日記的な機能をいれてみた](https://note.mersy418.com/article/multi-year-diary/)
 - [音声入力を使い始めた](https://note.mersy418.com/article/start-voice-input/)
@@ -17,5 +18,4 @@
 - [CodexのMacアプリがよさそう](https://note.mersy418.com/article/codex-mac/)
 - [pitcms の記事一覧等が改善されてた](https://note.mersy418.com/article/pitcms20260202/)
 - [pitcmsを使ってみた](https://note.mersy418.com/article/pitcms/)
-- [気づいたらAIが撮ってくれていたBackupでstorage がほぼフルになっていた](https://mersy.hatenablog.com/entry/2026/01/10/143701)
 <!-- BLOG-POST-LIST:END -->
