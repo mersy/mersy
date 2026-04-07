@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [Kosshi というアウトライナーを試してみる](https://note.mersy418.com/article/outliner-kosshi/)
 - [マリー退院](https://note.mersy418.com/article/2026-03-20-marie/)
 - [案件振り返り会](https://note.mersy418.com/article/2026-03-18-review/)
 - [久しぶりの札幌](https://note.mersy418.com/article/2026-03-17-sapporo/)
@@ -17,5 +18,4 @@
 - [連用日記的な機能をいれてみた](https://note.mersy418.com/article/multi-year-diary/)
 - [音声入力を使い始めた](https://note.mersy418.com/article/start-voice-input/)
 - [pitcmsに欲しい機能とか](https://note.mersy418.com/article/pitcms-request/)
-- [Google Drive の特定のディレクトリをAIと操作するためのアプリを作ってみる](https://note.mersy418.com/article/vault-chat/)
 <!-- BLOG-POST-LIST:END -->
