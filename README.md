@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [2026-05-31 のメモ](https://note.mersy418.com/article/2026-05-31-notes/)
 - [2026-05-29 のメモ](https://note.mersy418.com/article/2026-05-29-notes/)
 - [2026-05-28 のメモ](https://note.mersy418.com/article/2026-05-28-notes/)
 - [2026-05-27 のメモ](https://note.mersy418.com/article/2026-05-27-notes/)
@@ -17,5 +18,4 @@
 - [MICHAEL LINNELLのバックパックが気になる](https://note.mersy418.com/article/backpack-michael-linnell/)
 - [Kosshi というアウトライナーを試してみる](https://note.mersy418.com/article/outliner-kosshi/)
 - [マリー退院](https://note.mersy418.com/article/2026-03-20-marie/)
-- [案件振り返り会](https://note.mersy418.com/article/2026-03-18-review/)
 <!-- BLOG-POST-LIST:END -->
