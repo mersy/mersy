@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [2026-06-04 のメモ](https://note.mersy418.com/article/2026-06-04-notes/)
 - [2026-06-03 のメモ](https://note.mersy418.com/article/2026-06-03-notes/)
 - [2026-06-01 のメモ](https://note.mersy418.com/article/2026-06-01-notes/)
 - [2026-05-31 のメモ](https://note.mersy418.com/article/2026-05-31-notes/)
@@ -17,5 +18,4 @@
 - [Google Drive 上の Markdown をAI と人間が安全に編集するためのエディタ coscribe](https://note.mersy418.com/article/coscribe-introduction/)
 - [東京ワイナリーの空 SB ベティアン](https://note.mersy418.com/article/wine-tokyo-202604/)
 - [「世界で働くエンジニア - 10人のリアルな海外移住ストーリー」を読んだ](https://note.mersy418.com/article/ltt_engineers_working_abroad/)
-- [MICHAEL LINNELLのバックパックが気になる](https://note.mersy418.com/article/backpack-michael-linnell/)
 <!-- BLOG-POST-LIST:END -->
