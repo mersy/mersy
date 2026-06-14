@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [2026-06-14：AIツール作りと溜まる読みもの](https://note.mersy418.com/article/2026-06-14-notes/)
 - [2026-06-13：Fable 5 / Mythos 5 が一時的に全面停止](https://note.mersy418.com/article/2026-06-13-notes/)
 - [2026-06-10：Fable 5、IME](https://note.mersy418.com/article/2026-06-10-notes/)
 - [2026-06-09 のメモ](https://note.mersy418.com/article/2026-06-09-notes/)
@@ -17,5 +18,4 @@
 - [2026-06-05 のメモ](https://note.mersy418.com/article/2026-06-05-notes/)
 - [2026-06-04 のメモ](https://note.mersy418.com/article/2026-06-04-notes/)
 - [2026-06-03 のメモ](https://note.mersy418.com/article/2026-06-03-notes/)
-- [2026-06-01 のメモ](https://note.mersy418.com/article/2026-06-01-notes/)
 <!-- BLOG-POST-LIST:END -->
