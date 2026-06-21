@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [新潟グラムで CMS サイト構築フローについて話してきた](https://note.mersy418.com/article/202606-niigata-gram-cms-workflow/)
 - [2026-06-19：Node.js セキュリティと Lettera のアウトライナー操作](https://note.mersy418.com/article/2026-06-19-notes/)
 - [2026-06-18：Drupal セキュリティと AI 時代の開発基盤](https://note.mersy418.com/article/2026-06-18-notes/)
 - [2026-06-16 のメモ](https://note.mersy418.com/article/2026-06-16-notes/)
@@ -17,5 +18,4 @@
 - [2026-06-09 のメモ](https://note.mersy418.com/article/2026-06-09-notes/)
 - [2026-06-07 のメモ](https://note.mersy418.com/article/2026-06-07-notes/)
 - [2026-06-06 のメモ](https://note.mersy418.com/article/2026-06-06-notes/)
-- [GitHub Issues の Issue fields を見落としていた](https://note.mersy418.com/article/github-issue-fields-structured-metadata/)
 <!-- BLOG-POST-LIST:END -->
