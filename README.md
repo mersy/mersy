@@ -8,8 +8,8 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
-- [iCloud 経由の URL 取込フローと OpenCode 司令塔検討](https://note.mersy418.com/article/2026-06-26-notes/)
-- [URLリサーチ改善と opencode の SSH_AUTH_SOCK 対応](https://note.mersy418.com/article/2026-06-25-notes/)
+- [2026-06-26：iCloud 経由の URL 取込フローと OpenCode 司令塔検討](https://note.mersy418.com/article/2026-06-26-notes/)
+- [2026-06-25：URLリサーチ改善と opencode の SSH_AUTH_SOCK 対応](https://note.mersy418.com/article/2026-06-25-notes/)
 - [2026-06-23：Hermes を司令塔にした AI 開発オーケストレーション](https://note.mersy418.com/article/2026-06-23-notes/)
 - [2026-06-22：AWS Transform と CMS 運用における AI の任せどころ](https://note.mersy418.com/article/2026-06-22-notes/)
 - [新潟グラムで CMS サイト構築フローについて話してきた](https://note.mersy418.com/article/202606-niigata-gram-cms-workflow/)
