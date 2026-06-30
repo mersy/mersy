@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [2026-06-30：LLM-Wiki と Cursor iOS、AI 開発の任せ方](https://note.mersy418.com/article/2026-06-30-notes/)
 - [2026-06-29：Claude Design と Meet 文字起こし設定の落とし穴](https://note.mersy418.com/article/2026-06-29-notes/)
 - [2026-06-28：Health Shortcut と AI エージェント記事巡回](https://note.mersy418.com/article/2026-06-28-notes/)
 - [2026-06-27：Codex の Google Drive 設定と Ollama ローカル環境](https://note.mersy418.com/article/2026-06-27-notes/)
@@ -17,5 +18,4 @@
 - [2026-06-22：AWS Transform と CMS 運用における AI の任せどころ](https://note.mersy418.com/article/2026-06-22-notes/)
 - [新潟グラムで CMS サイト構築フローについて話してきた](https://note.mersy418.com/article/202606-niigata-gram-cms-workflow/)
 - [2026-06-19：Node.js セキュリティと Lettera のアウトライナー操作](https://note.mersy418.com/article/2026-06-19-notes/)
-- [2026-06-18：Drupal セキュリティと AI 時代の開発基盤](https://note.mersy418.com/article/2026-06-18-notes/)
 <!-- BLOG-POST-LIST:END -->
