@@ -9,13 +9,13 @@
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
 - [2026-07-15：Kosshiとプロダクトビルダー](https://note.mersy418.com/article/2026-07-15-notes/)
+- [2026-07-14：Smart AssetsPublisher](https://note.mersy418.com/article/2026-07-14-notes/)
+- [2026-07-13：紙とiPadに書けるペン](https://note.mersy418.com/article/2026-07-13-notes/)
+- [2026-07-12：テキストエディター「with」とAIレポートの型](https://note.mersy418.com/article/2026-07-12-notes/)
 - [2026-07-10：GPT-5.6とGPT Live、Amazon Quick](https://note.mersy418.com/article/2026-07-10-notes/)
 - [2026-07-09：Cloudflare DropとVPN遅延](https://note.mersy418.com/article/2026-07-09-notes/)
 - [2026-07-04：GitベースCMSとAIドキュメント](https://note.mersy418.com/article/2026-07-04-notes/)
 - [2026-07-03：Status Rebuild プラグインと仕様ファイル整理](https://note.mersy418.com/article/2026-07-03-notes/)
 - [2026-07-02：OASIS Smart Ring と GitHub Issue fields GA](https://note.mersy418.com/article/2026-07-02-notes/)
 - [2026-07-01：OpenCode の DeepSeek と Google Sheets API 権限調整](https://note.mersy418.com/article/2026-07-01-notes/)
-- [2026-06-30：LLM-Wiki と Cursor iOS、AI 開発の任せ方](https://note.mersy418.com/article/2026-06-30-notes/)
-- [2026-06-29：Claude Design と Meet 文字起こし設定の落とし穴](https://note.mersy418.com/article/2026-06-29-notes/)
-- [2026-06-28：Health Shortcut と AI エージェント記事巡回](https://note.mersy418.com/article/2026-06-28-notes/)
 <!-- BLOG-POST-LIST:END -->
