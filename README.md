@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [VPNを使うとネットが極端に遅くなる](https://note.mersy418.com/article/vpn-performance-l2tp-openvpn/)
 - [2026-07-15：Kosshiとプロダクトビルダー](https://note.mersy418.com/article/2026-07-15-notes/)
 - [2026-07-14：Smart AssetsPublisher](https://note.mersy418.com/article/2026-07-14-notes/)
 - [2026-07-13：紙とiPadに書けるペン](https://note.mersy418.com/article/2026-07-13-notes/)
@@ -17,5 +18,4 @@
 - [2026-07-04：GitベースCMSとAIドキュメント](https://note.mersy418.com/article/2026-07-04-notes/)
 - [2026-07-03：Status Rebuild プラグインと仕様ファイル整理](https://note.mersy418.com/article/2026-07-03-notes/)
 - [2026-07-02：OASIS Smart Ring と GitHub Issue fields GA](https://note.mersy418.com/article/2026-07-02-notes/)
-- [2026-07-01：OpenCode の DeepSeek と Google Sheets API 権限調整](https://note.mersy418.com/article/2026-07-01-notes/)
 <!-- BLOG-POST-LIST:END -->
