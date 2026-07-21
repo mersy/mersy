@@ -8,6 +8,7 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [2026-07-20：W杯、名古屋場所、読書](https://note.mersy418.com/article/2026-07-20-notes/)
 - [2026-07-19：Cloudflare WAFとAIとの関係性](https://note.mersy418.com/article/2026-07-19-notes/)
 - [2026-07-17：Codexのタスク委譲とATOKのアラート対応](https://note.mersy418.com/article/2026-07-17-notes/)
 - [2026-07-16：AI時代の分業とリモートワーク](https://note.mersy418.com/article/2026-07-16-notes/)
@@ -17,5 +18,4 @@
 - [2026-07-13：紙とiPadに書けるペン](https://note.mersy418.com/article/2026-07-13-notes/)
 - [2026-07-12：テキストエディター「with」とAIレポートの型](https://note.mersy418.com/article/2026-07-12-notes/)
 - [2026-07-10：GPT-5.6とGPT Live、Amazon Quick](https://note.mersy418.com/article/2026-07-10-notes/)
-- [2026-07-09：Cloudflare DropとVPN遅延](https://note.mersy418.com/article/2026-07-09-notes/)
 <!-- BLOG-POST-LIST:END -->
