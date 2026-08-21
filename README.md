@@ -8,14 +8,14 @@
 
 ## Blog Entries
 <!-- BLOG-POST-LIST:START -->
+- [2026-08-20：人間向けの文書、Grok Bot、ダイエット飯](https://note.mersy418.com/article/2026-08-20-notes/)
+- [2026-08-19：Cursorの構成、ダイエットランチ](https://note.mersy418.com/article/2026-08-19-notes/)
+- [2026-08-18：コーディングAIエージェント、Zed Delta](https://note.mersy418.com/article/2026-08-18-notes/)
+- [2026-08-16：ドキュメント化、Agent Plugins、テスト設計](https://note.mersy418.com/article/2026-08-16-notes/)
+- [2026-08-15：Agent Plugins、AI文章、個人開発](https://note.mersy418.com/article/2026-08-15-notes/)
 - [2026-08-14：CursorとCodex、セキュリティチェックシート、Hermes Cloud](https://note.mersy418.com/article/2026-08-14-notes/)
 - [2026-08-13：DrupalCamp、Kiro Crew、AWS QuickとCodex](https://note.mersy418.com/article/2026-08-13-notes/)
 - [2026-08-12：未来の自分、AIへのタスク委譲、人間ドック](https://note.mersy418.com/article/2026-08-12-notes/)
 - [2026-08-11：AIエージェント、開発組織、Cloudflare OS](https://note.mersy418.com/article/2026-08-11-notes/)
 - [2026-08-10：Cloudflare Browser Run、Cache APIとWorkers KV](https://note.mersy418.com/article/2026-08-10-notes/)
-- [2026-08-09：WordPress保守、CursorのAuto-review、モンベルのパジャマ](https://note.mersy418.com/article/2026-08-09-notes/)
-- [2026-08-08：Tailscale、Codex Updates、CursorのCloud Agent](https://note.mersy418.com/article/2026-08-08-notes/)
-- [HAMWORKS10周年で札幌](https://note.mersy418.com/article/hamworks-10th-anniversary-in-sapporo/)
-- [2026-08-06：札幌出張、リモートワークと並列処理](https://note.mersy418.com/article/2026-08-06-notes/)
-- [2026-08-05：転勤と札幌](https://note.mersy418.com/article/2026-08-05-notes/)
 <!-- BLOG-POST-LIST:END -->
